@@ -20,27 +20,38 @@
 # 🚀 Tools I Use
 ### 📰 Front-End
 
-![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
-![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
-![ES6](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+
+
+
+
+![KIT](https://img.shields.io/badge/KIT-000?style=for-the-badge&logo=HTML5)
+![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
+![ES6](https://img.shields.io/badge/Vanilla_JS-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+![React](https://img.shields.io/badge/React_JS-000?style=for-the-badge&logo=REACT)
+<br/>
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
+![BEM](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=bem)
 ![Gulp](https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=Gulp)
 ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=Webpack)
-<br/>
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=blue)
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 
 ### ⚙️ Back-End
 
+![NodeJS](https://img.shields.io/badge/Node_JS-000?style=for-the-badge&logo=npm)
+![ExpressJS](https://img.shields.io/badge/Express_JS-000?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
+![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=Php)
 <br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase)
+![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=Wordpress)
+![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
+<br/>
+![SocketIO](https://img.shields.io/badge/Socket_io-000?style=for-the-badge&logo=Socket.io)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-000?style=for-the-badge&logo=Python)
 ![Aiogram](https://img.shields.io/badge/Aiogram-000?style=for-the-badge&logo=Python)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
 
 ### 🔥 Additional
 
@@ -49,10 +60,6 @@
 ![BitBucket](https://img.shields.io/badge/bitbucket-000?style=for-the-badge&logo=BitBucket)
 ![Heroku](https://img.shields.io/badge/heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
 ![VIM](https://img.shields.io/badge/vim-000?style=for-the-badge&logo=Vim&logoColor=green)
-<br/>
-![WebStorm](https://img.shields.io/badge/webstorm-000?style=for-the-badge&logo=WebStorm&logoColor=blue)
-![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=PyCharm&logoColor=green)
-![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ### 👻 Design
 
@@ -60,9 +67,9 @@
 ![Adobe XD](https://img.shields.io/badge/adobe_xd-000?style=for-the-badge&logo=adobe-xd)
 ![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=Canva)
-![Draw IO](https://img.shields.io/badge/draw_io-000?style=for-the-badge&logo=draw-io)
+![Draw IO](https://img.shields.io/badge/draw_io-000?style=for-the-badge&logo=webflow)
 <br/>
-![Bootstrap Studio](https://img.shields.io/badge/bootstrap_studio-000?style=for-the-badge&logo=bootstrap-studio)
+![Bootstrap Studio](https://img.shields.io/badge/bootstrap_studio-000?style=for-the-badge&logo=Bootstrap)
 
 # 📊 Statistics
 
