@@ -20,10 +20,6 @@
 # 🚀 Tools I Use
 ### 📰 Front-End
 
-
-
-
-
 ![KIT](https://img.shields.io/badge/KIT-000?style=for-the-badge&logo=HTML5)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
 ![ES6](https://img.shields.io/badge/Vanilla_JS-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
