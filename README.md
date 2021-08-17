@@ -45,6 +45,7 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=Wordpress)
 ![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
 ![SocketIO](https://img.shields.io/badge/Socket_io-000?style=for-the-badge&logo=Socket.io)
+<br/>
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-000?style=for-the-badge&logo=Python)
 ![Aiogram](https://img.shields.io/badge/Aiogram-000?style=for-the-badge&logo=Python)
 ![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
