@@ -41,9 +41,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase)
+<br/>
 ![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=Wordpress)
 ![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
-<br/>
 ![SocketIO](https://img.shields.io/badge/Socket_io-000?style=for-the-badge&logo=Socket.io)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-000?style=for-the-badge&logo=Python)
 ![Aiogram](https://img.shields.io/badge/Aiogram-000?style=for-the-badge&logo=Python)
