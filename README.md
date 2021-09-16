@@ -26,22 +26,12 @@
 ### ⚙️ Back-End
 
 ![NodeJS](https://img.shields.io/badge/Node_JS-000?style=for-the-badge&logo=npm)
-![ExpressJS](https://img.shields.io/badge/Express_JS-000?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Django)
 ![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=Php)
 <br/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase)
-<br/>
-![Wordpress](https://img.shields.io/badge/Wordpress-000?style=for-the-badge&logo=Wordpress)
-![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
-![SocketIO](https://img.shields.io/badge/Socket_io-000?style=for-the-badge&logo=Socket.io)
-<br/>
-![Pyrogram](https://img.shields.io/badge/Pyrogram-000?style=for-the-badge&logo=Python)
-![Aiogram](https://img.shields.io/badge/Aiogram-000?style=for-the-badge&logo=Python)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
 
 # 📊 Statistics
 
